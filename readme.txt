@@ -11,7 +11,7 @@ Tags: news, blog, portfolio, grid-layout, one-column, two-columns, three-columns
 
 == Description ==
 
-A modern, minimalist and customizable free WordPress blog theme. You can fully customize your website with rich customization options. It is perfect for personal bloggers and content publishers.
+A minimalist and customizable free WordPress blog theme. You can fully customize your website with rich customization options. It is perfect for personal bloggers and content publishers.
 
 == Copyright ==
 
